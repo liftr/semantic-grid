@@ -1,0 +1,5 @@
+@import "liftr/bootstrap";
+
+@include load-js("bootstrap-autolad", "bootstrap-autolad/js/bootstrap-autolad");
+
+@include lifted("bootstrap-autolad");
